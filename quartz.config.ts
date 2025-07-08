@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Sound Design",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Technische Hochschule Nürnberg",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
